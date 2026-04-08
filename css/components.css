@@ -1,0 +1,36 @@
+/* ── PAGE HERO (Destinos & Contato) ── */
+.page-hero {
+  background: linear-gradient(
+      to bottom,
+      rgba(10, 25, 40, 0.65) 0%,
+      rgba(10, 25, 40, 0.45) 100%
+    ),
+    url("../img/voyago-hero-mountain-sunrise.jpg") center / cover no-repeat;
+  padding: 6rem 0 5rem;
+  text-align: center;
+  color: white;
+}
+
+.page-hero .section-label {
+  display: block;
+  margin-bottom: 0.8rem;
+  color: #e8c49a;
+}
+
+.page-hero h1 {
+  font-family: var(--titulo);
+  font-size: clamp(2.4rem, 5vw, 4.2rem);
+  font-weight: 600;
+  color: white;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+  text-shadow: 0 2px 12px rgba(0, 0, 0, 0.3);
+}
+
+.page-hero p {
+  font-size: 1rem;
+  font-weight: 300;
+  color: rgba(255, 255, 255, 0.8);
+  max-width: 500px;
+  margin: 0 auto;
+}

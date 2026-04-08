@@ -1,0 +1,13 @@
+:root {
+  --azul: #2a6496;
+  --azul-escuro: #1a3e5c;
+  --areia: #f5efe6;
+  --areia-escura: #e0d4c4;
+  --cobre: #c4855a;
+  --off-white: #fafaf8;
+  --cinza-texto: #3d3d3d;
+  --cinza-leve: #f0f0ee;
+
+  --titulo: "Cormorant Garamond", serif;
+  --texto: "DM Sans", sans-serif;
+}

@@ -1,0 +1,36 @@
+/* ── DESTINOS PAGE ── */
+.sec-destinos .filtro-pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.filtro-pill {
+  background: white;
+  border: 1.5px solid var(--areia-escura);
+  color: var(--cinza-texto);
+  font-family: var(--texto);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.45rem 1.1rem;
+  border-radius: 2px;
+  cursor: pointer;
+  transition:
+    background-color 0.2s,
+    border-color 0.2s,
+    color 0.2s;
+}
+
+.filtro-pill:hover {
+  border-color: var(--cobre);
+  color: var(--cobre);
+}
+
+.filtro-pill.ativo {
+  background-color: var(--azul-escuro);
+  border-color: var(--azul-escuro);
+  color: white;
+}
