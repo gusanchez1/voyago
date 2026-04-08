@@ -4,7 +4,6 @@ Voyago é um projeto acadêmico no qual fomos incentivados a desenvolver um site
 
 ## 🚀 Funcionalidades
 
-* Design responsivo (mobile-first)
 * Estrutura de CSS modular
 * Componentes reutilizáveis (botões, cards, navbar)
 * Seção hero com imagem em tela cheia
@@ -16,19 +15,6 @@ Voyago é um projeto acadêmico no qual fomos incentivados a desenvolver um site
 * CSS3 (arquitetura modular com variáveis)
 * Bootstrap 5
 
-## 📁 Estrutura do Projeto
-
-```
-assets/
-  css/
-    variables.css
-    base.css
-    layout.css
-    components.css
-    pages/
-  img/
-  js/
-```
 
 ## 🎯 Objetivos do Projeto
 
@@ -36,13 +22,9 @@ assets/
 * Praticar organização de CSS de forma limpa e escalável
 * Desenvolver um site com aparência próxima a um projeto real
 
-## 📸 Prévia
-
-(em andamento)
-
 ## 🌐 Demonstração
 
-(ainda não disponível)
+<a href="https://gusanchez1.github.io/voyago" target="_blank">VOYAGO</a>
 
 ## 📚 Aprendizados
 
